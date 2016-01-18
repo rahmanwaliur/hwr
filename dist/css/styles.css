@@ -1,0 +1,76 @@
+th, td {
+    text-align: center;
+    width: 50px;
+}
+
+td {
+    font-weight: bold;
+}
+
+th {
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+
+input {
+    width: 50px;
+}
+
+#poster {
+    float: left;
+    width: 30%;
+}
+
+#poster-label {
+    text-align: left;
+}
+#table {
+    float: right;
+    width: 70%;
+    padding-left: 10%;
+    padding-top: 1%;
+}
+
+#price {
+    vertical-align: top;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+#count-in, #count-out, #count-in-show, #count-out-show {
+    color: black;
+    text-align: center;
+}
+
+#add, #add-show {
+    color: lightgreen;
+    text-align: center;
+}
+
+#total-in, #total-sold, #gross, #total-in-show, #total-sold-show, #gross-show {
+    color: blue;
+    text-align: center;
+}
+
+#comp, #comp-show {
+    color: red;
+    text-align: center;
+}
+
+#show-total {
+    padding-top: 15%;
+    padding-left: 30%;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+
+#settle {
+    width: 5em;
+    height: 2em;
+}
+
+
+
+
